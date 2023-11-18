@@ -1,0 +1,7 @@
+{
+    "name": "imanghafoori/test-bin",
+    "require": {
+        "symfony/console": "^6.3"
+    },
+    "bin": "index.php"
+}
